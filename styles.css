@@ -1,14 +1,14 @@
 /*  your css code here. If applicable */
 .para:before {
 content: 'Before Element';
-color: red;
+color: rgb(255, 0, 0);
 font-size: 20px;
 margin-right: 5px;
 }
 
 .para:after {
 content: 'After Element';
-color: red;
+color: rgb(255, 0, 0);
 font-size: 20px;
 margin-left: 5px;
 }
